@@ -1,6 +1,7 @@
-## Hi there 👋
+## Heyoo, I'm Kitr!
+![]()
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SillyKitr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **SillyKitr/SillyKitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
